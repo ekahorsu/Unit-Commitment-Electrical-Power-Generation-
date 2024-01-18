@@ -1,1 +1,1 @@
-# Unit Committment (Electrical-Power-Generation)
+# Unit Commitment (Electrical Power Generation)
